@@ -76,3 +76,7 @@ The app will be available at http://localhost:3000.
 
 🔗 Deployed Link: https://vehicle-movement-bice.vercel.app/
 
+## Resume Link: 
+
+🔗 Link: https://drive.google.com/file/d/1ChyEu65aTV67ZkeI1R3m_FNBNyeo5sTm/view?usp=drive_link
+
